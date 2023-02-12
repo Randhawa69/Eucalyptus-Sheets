@@ -1,0 +1,194 @@
+* {
+  padding: 0;
+  margin: 0;
+  
+}
+.con {
+  background-color: whitesmoke;
+  height: 665px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.box1 {
+  height: 525px;
+  padding-top: 15px;
+}
+.box1 img {
+  height: 80px;
+  width: 80px;
+  margin-left: 90px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.box1 img:hover {
+  border: 1px solid rgb(81, 229, 255);
+}
+.box2 {
+  height: 525px;
+  box-sizing: border-box;
+  padding-top: 30px;
+}
+.box2 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.box3 {
+  height: 525px;
+  padding-top: 30px;
+}
+li {
+  display: inline;
+}
+.li1 {
+  font-family: 'Moul', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: -30px;
+}
+.li2 {
+  padding-left: 60px;
+  font-weight: bold;
+}
+.sentence {
+  margin-top: -10px;
+}
+.a {
+  float: left;
+  font-size: 10px;
+}
+.b {
+  float: left;
+  font-size: 10px;
+  margin-left: 5px;
+}
+/* .color { */
+
+.color1 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: white !important;
+  float: left;
+}
+.colorhover:hover {
+  border: 2px solid black;
+}
+.color2 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgb(255, 218, 224);
+  float: left;
+  margin-left: 10px;
+}
+.color3 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: peachpuff;
+  float: left;
+}
+.color4 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: rgba(207, 194, 194, 0.87);
+  float: left;
+}
+.color5 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: rgba(112, 129, 81, 0.507);
+  float: left;
+}
+.color6 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: rgba(112, 129, 81, 0.74);
+  float: left;
+}
+.color7 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: rgba(163, 212, 214, 0.452);
+  float: left;
+}
+.color8 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 10px;
+  background-color: rgba(150, 219, 221, 0.685);
+  float: left;
+}
+
+.btnbox1 {
+  margin-top: 15px;
+}
+.btnbox2 {
+  margin-top: 10px;
+}
+.btn1 {
+  width: 100px;
+  height: 40px;
+}
+.btn2 {
+  width: 100px;
+  height: 40px;
+}
+.btn3 {
+  width: 100px;
+  height: 40px;
+}
+.btn4 {
+  width: 100px;
+  height: 40px;
+}
+.btn5 {
+  width: 100px;
+  height: 40px;
+}
+.btn6 {
+  width: 100px;
+  height: 40px;
+}
+.btn17 {
+  height: 50px;
+  width: 310px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgba(241, 68, 0, 0.973);
+  border-color: rgba(241, 68, 0, 0.973);
+  border-radius: 5px;
+  border-style: none; 
+  float: left;
+}
+.hr {
+  width: 310px;
+}
+.droptext {
+  float: left;
+  font-weight: bold;
+}
+.drop1 {
+  float: left;
+  margin-left: 245px;
+}
+.drop2 {
+  margin-left: 295px;
+}
+.star {
+  float: left;
+  margin-left: 100px;
+  color: rgba(247, 211, 8, 0.877);
+}
